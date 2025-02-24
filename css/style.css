@@ -299,6 +299,7 @@ a:focus {
   height: auto;
   min-width: 100%;
   min-height: 100%;
+  object-fit: cover;
 }
 
 .slider_section .slider_bg_box::before {
